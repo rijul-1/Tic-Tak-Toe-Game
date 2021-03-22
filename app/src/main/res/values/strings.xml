@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zero-Katta</string>
+    <string name="heading">Welcome to Tic-Tac-Toe</string>
+    <string name="grid">Grid</string>
+    <string name="cross_description">cross</string>
+    <string name="status">Tap to Play</string>
+    <string name="player_X_O_wins">Player-X Wins: 0  Player-O Wins: 0</string>
+</resources>
